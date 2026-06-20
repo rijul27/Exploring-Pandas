@@ -1,6 +1,6 @@
 ## What is Pandas?
 
-Pandas is an open-source Python library used for:
+Pandas is an open-source Python library used for:-
 
 * Data Analysis
 * Data Cleaning
